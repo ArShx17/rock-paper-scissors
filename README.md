@@ -1,30 +1,35 @@
-# Rock Paper Scissors 
+# Rock Paper Scissors – Flask Web Game
 
-A simple web-based Rock Paper Scissors game built using Flask.
+A simple and interactive **Rock Paper Scissors** web game built using **Python Flask**.  
+This project demonstrates basic backend logic, frontend integration, and simple UI styling.
 
-## Features
-- User vs Computer
-- Random computer choice
-- Win/Lose/Tie result
-- Simple and clean UI
+---
+
+## Live Preview
+
+Run locally to play the game in your browser.
+
+---
+
+## Project Overview
+
+This web application allows a user to:
+
+- Choose Rock, Paper, or Scissors
+- Play against a computer (random choice)
+- View instant result (Win / Lose / Tie)
+- Experience a clean and modern UI
+
+The project is beginner-friendly and ideal for learning Flask fundamentals.
+
+---
 
 ## Technologies Used
-- Python
-- Flask
-- HTML
-- CSS
 
-## How To Run
+- **Python**
+- **Flask**
+- **HTML**
+- **CSS**
+- **VS Code**
 
-1. Install Flask:
-pip install flask
 
-2. Run:
-python main.py
-
-3. Open in browser:
-http://127.0.0.1:5000/
-
--------
-
-Made by Aryan Shishodia
