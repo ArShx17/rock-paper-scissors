@@ -25,12 +25,11 @@ def home():
         computer_choice = random.choice(["rock", "paper", "scissors"])
 
         if user_choice == computer_choice:
-            result = "It's a Tie! 😄"
+            result = "It's a Tie!"
         elif win_rules[user_choice] == computer_choice:
-            result = "You Win! 🎉"
+            result = "You Win!"
         else:
-            result = "Computer Wins! 🤖"
-
+            result = "Computer Wins!"
     return render_template(
         "index.html",
         result=result,
