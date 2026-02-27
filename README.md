@@ -1,4 +1,4 @@
-# Rock Paper Scissors – Flask Web Game
+# Rock Paper Scissors
 
 A simple and interactive **Rock Paper Scissors** web game built using **Python Flask**.  
 This project demonstrates basic backend logic, frontend integration, and simple UI styling.
