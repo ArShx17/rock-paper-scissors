@@ -1,4 +1,4 @@
-# Rock Paper Scissors – Flask Game
+# Rock Paper Scissors 
 
 A simple web-based Rock Paper Scissors game built using Flask.
 
