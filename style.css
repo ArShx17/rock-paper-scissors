@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, #424343, #3ab78b);
+    color: rgb(216, 39, 137);
+}
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Card */
+.card {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.2);
+    text-align: center;
+    width: 350px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.subtitle {
+    color: gray;
+    margin-bottom: 20px;
+}
+
+/* Buttons */
+.buttons button {
+    padding: 12px 18px;
+    margin: 8px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    transition: 0.3s ease;
+}
+
+.rock {
+    background-color: #e74c3c;
+}
+
+.paper {
+    background-color: #3498db;
+}
+
+.scissors {
+    background-color: #2ecc71;
+}
+
+.buttons button:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+
+/* Result */
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+}
+
+.result h2 {
+    margin-top: 10px;
+    color: #764ba2;
+}
+.container {
+    margin-top: 100px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.result {
+    margin-top: 20px;
+}
